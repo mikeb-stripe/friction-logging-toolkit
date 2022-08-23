@@ -14,6 +14,7 @@ The resources here are a jumping-off point - they are not meant to be prescripti
 
 ## More reading
 
+- [How we use friction logs to improve products at Stripe](https://dev.to/stripe/how-we-use-friction-logs-to-improve-products-at-stripe-i6p)
 - [Frictionlog.com](https://frictionlog.com/)
 - [An introduction to friction logging](https://developerrelations.com/developer-experience/an-introduction-to-friction-logging)
 

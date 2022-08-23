@@ -2,7 +2,7 @@
 
 **Authored by** [Mike Bifulco](https://twitter.com/irreverentmike) and [Charlie Gerard](https://twitter.com/devdevcharlie).
 
-_This article was originally published on [dev.to](https://dev.to/stripe/)._
+_This article was originally published on [dev.to](https://dev.to/stripe/how-we-use-friction-logs-to-improve-products-at-stripe-i6p)._
 
 Friction logging is a practice that can be used by engineering teams building products to track and improve upon issues that users experience while using a product. The goal of friction logging is to make a given product better for everyone involved. End users and developers get a product that delivers value more directly, the team building the product gets a more attached, happier user base, and salespeople have an easier time showing value to potential customers.
 
