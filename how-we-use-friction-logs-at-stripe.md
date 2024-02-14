@@ -76,7 +76,7 @@ At Stripe, when a friction log is completed, it is shared to an email list that 
 
 You may find that there are people who actively disagree with your perspective - don't fret, this is usually a good thing! Exposing your friction log to people with a diversity of experience and background means that any suggested changes to your product will be more considerate of a larger userbase.
 
-###Follow-up!
+### Follow-up!
 
 It's also good practice to follow up directly with people who may be tasked with coming up with fixes related to your friction log. Keeping an open dialog is important - it helps ensure that feedback is given and received in good faith, and that the outcome of your work is a meaningful solution (even if it isn't implemented right away).
 
